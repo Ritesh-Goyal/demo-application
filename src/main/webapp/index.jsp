@@ -98,7 +98,6 @@
                     </li>
                 </div>
             </ul>
-            
             <a class="navbar-brand navbar-brand-center d-flex align-items-center only-desktop" href="#">
                 <img src="img/logo.png" alt="">
             </a>
